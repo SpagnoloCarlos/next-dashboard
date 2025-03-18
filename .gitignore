@@ -1,0 +1,7 @@
+/.next/
+/.devcontainer/
+/node_modules
+.env
+.env*.local
+.fttemplates
+.vscode
